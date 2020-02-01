@@ -15,5 +15,6 @@ class CarL53 extends Model
         'id',
         'brand',
         'model',
+        '???',
     ];
 }
